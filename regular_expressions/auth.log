@@ -1,0 +1,6 @@
+Nov 13 13:34:23 bella su[25375]: pam_unix(su:auth): 
+authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 
+ruser=eugenia rhost= user=root
+Nov 13 13:34:25 bella su[25375]: pam_authenticate: 
+Authentication failure
+Nov 13 13:34:25 bella su[25375]: FAILED su for root by eugenia
