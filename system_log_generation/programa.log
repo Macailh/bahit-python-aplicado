@@ -1,0 +1,2 @@
+[2023-11-19 12:39:02,874] [INFO] [pid 19313] MYAPP MyErrorLevel Alert: Este es un mensaje de registro de nivel INFO
+[2023-11-19 12:39:02,874] [WARNING] [pid 19313] MYAPP MyErrorLevel Alert: Este es un mensaje de registro de nivel WARNING
